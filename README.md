@@ -74,19 +74,19 @@ I am a data analyst passionate about uncovering trends, automating reports, and 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/marymagdalene82)
 ### 📊 Featured Data Projects
 
-#### 1. [Retail Analytics]
+#### 1. Retail Analytics
 * **Goal:** Analyse Brazilian e-commerce transaction data to uncover revenue drivers, product category performance, regional sales trends, and customer purchasing behaviour.
 * **Tools:** `MySql` `Excel` `PowerBI`
 * **Key Impact:** Developed a three-page executive dashboard covering 100K+ orders, 90K+ customers, and 3 business performance dimensions (sales, regional performance, and customer behaviour). Identified opportunities to improve category performance, delivery experience, and customer retention through data-driven recommendations.
 * 🔗 [View Repository](https://github.com) | [Interactive Dashboard](https://tableau.com)
 
-#### 2. [Agricultural Supply Chain Analytics — From Yield to Market]
+#### 2. Agricultural Supply Chain Analytics — From Yield to Market
 * **Goal:** Integrate agricultural production, crop yield, producer price, and trade data across Sub-Saharan African countries to evaluate supply chain efficiency, market access, price volatility, and food security risks.
 * **Tools:** `MySql` `Excel` `PowerBI`
 * **Key Impact:** Developed an integrated agricultural analytics solution covering multiple African countries, 10+ staple crop categories, and 20+ years of historical agricultural data. Built a three-page executive dashboard to identify high-risk crop and country combinations, assess price instability, and highlight potential agricultural supply chain vulnerabilities.
 * 🔗 [View Repository](https://github.com)
 
-#### 3. [Energy Access & Sustainable Development Analytics]
+#### 3. Energy Access & Sustainable Development Analytics
 * **Goal:** Integrate electricity access, population, and renewable energy capacity data across African countries to assess electrification gaps, identify underserved populations, and evaluate renewable energy development trends.
 * **Tools:** `MySql` `Excel` `PowerBI`
 * **Key Impact:** Developed an integrated energy analytics solution covering 50+ African countries, 3 key energy and development indicators, and multiple years of historical data. Designed a three-page executive Power BI dashboard featuring geographic visualisations of electrification gaps, country-level performance comparisons, and renewable energy growth trends to support evidence-based infrastructure and investment decisions.
